@@ -13,7 +13,7 @@
 #define INITR_144GREENTAB 0x01
 #define INITR_MINI160x80 0x04
 #define INITR_HALLOWING 0x05
-#define INITR_MINI160x80_GMT 0x06 //0.96 160x80 TFT LCM from Shenzhen G.M Electronics Co., Ltd.
+#define INITR_MINI160x80_GMT 0x06 //0.96 160x80 TFT LCM from Shenzhen Golden Morning Electronic Co. Ltd.
 
 // Some register settings
 #define ST7735_MADCTL_BGR 0x08
